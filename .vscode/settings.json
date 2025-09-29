@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./moon_tracker_gt/src/tracking"
+    ]
+}

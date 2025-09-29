@@ -1,0 +1,12 @@
+ephemeris_file: data/de421.bsp
+spectrum_analyzer:
+  ip: "172.31.5.120"
+  port: 5025
+  center_freq: 1420e6
+  span: 5e6
+  rbw: 10e3
+  vbw: 10e3
+  sweep_time: 0.1
+  points: 1001
+  ref_level: 0.0      # dBm
+  input_att: 10.0     # dB

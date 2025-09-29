@@ -1,0 +1,6 @@
+skyfield
+pyqt5
+numpy
+scipy
+pytest
+# Add any additional dependencies as needed
