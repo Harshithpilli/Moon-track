@@ -34,8 +34,8 @@ A Python-based tool for lunar tracking and G/T (gain-to-noise-temperature) compu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Harshithpilli/Moon-track.git
-   cd Moon-track
+   git clone https://github.com/Harshithpilli/Moon-Tracker-G-T-Measurement-Tool.git
+   cd Moon-Tracker-G-T-Measurement-Tool
 2. Install dependencies:
    ```bash
    pip install -r moon_tracker_gt/requirements.txt
@@ -77,5 +77,6 @@ For major changes, please open an issue first to discuss what you’d like to ch
 ## Note 
 To get the signal powers and readings , connect to any Spectrum Analyzer using LAN Connection.
 After connecting, you have to configure the settings in both Spectrum Analyzer and config.yaml file present in the folder(moon_tracker_gt), as per requirements..
+
 
 
