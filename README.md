@@ -73,3 +73,9 @@ pytest
 
 Pull requests are welcome.
 For major changes, please open an issue first to discuss what you’d like to change.
+
+## Note 
+To get the signal powers and readings , connect to any Spectrum Analyzer using LAN Connection.
+After connecting, you have to configure the settings in both Spectrum Analyzer and config.yaml file present in the folder(moon_tracker_gt), as per requirements..
+
+
