@@ -1,6 +1,6 @@
 ephemeris_file: data/de421.bsp
 spectrum_analyzer:
-  ip: "172.31.5.120"
+  ip: "Edit this when you connect your software to a Spectrum Analyzer using LAN Connection"
   port: 5025
   center_freq: 1420e6
   span: 5e6
